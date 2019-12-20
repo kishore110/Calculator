@@ -1,0 +1,15 @@
+git init
+git remote add origin https://github.com/kishore110/appplicat.git
+git add filename
+git commit -m "first commit"
+git push -u origin master
+
+-------------------------------------------------------------
+
+
+-------------------------------------------------------------
+
+git clone https://github.com/kishore110/appplicat.git
+git add filename2
+git commit -m "first commit"
+git push -u origin master
